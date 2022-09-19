@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "incomplete",
+            "shape": "point_cloud",
+            "color": "#BD10E0",
+            "geometry_config": {},
+            "id": 10315690,
+            "hotkey": ""
+        },
+        {
+            "title": "complete",
+            "shape": "point_cloud",
+            "color": "#308991",
+            "geometry_config": {},
+            "id": 10315691,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds"
+}

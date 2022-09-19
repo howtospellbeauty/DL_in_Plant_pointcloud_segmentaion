@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "leaves",
+            "shape": "point_cloud",
+            "color": "#50E3C2",
+            "geometry_config": {},
+            "id": 10315041,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds"
+}
